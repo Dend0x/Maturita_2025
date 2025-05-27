@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1747253844 source:c:\users\danny\desktop\maturita banka uloh 2\uloha 12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<ctype.h>
+
